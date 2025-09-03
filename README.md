@@ -1,18 +1,24 @@
-# Agile change consulting - is it right for you?
+# Agile consulting - is it right for you?
 
-I provide agile change consulting for companies, ranging from small startups to large enterprises, and ranging from one-on-one with a CTO to many-to-many with teams-of-teams.
-
-- What I see in practice: many companies can save quite a lot of time, money, and morale by reading this one page, and using many of the excellent existing books or videos or course. Don't spend expensive resources on agile change consulting until you all know the basics.
-
-- What I see in practice: agile change consulting only works when company leadership is all on board with trying agile change consulting. This means the CXOs and VPs must do their homework ahead of time. Don't embark on agile change until your leaders are all ready.
+Are you considering hiring agile consulting help?
 
 This page is a quick checklist to help you figure out your readiness level for engaging with agile change consulting providers. You can also share this page with your leaders and your teammates, so they can learn about a bit about the basics and what's involved.
+
+This page has a quick easy agile readiness checklist, so you can score your readiness, and possibly save yourself time and money as well.
 
 - If you and all your teams can't yet answer these questions, then wait.
 
 - When you and your teams do answer these questions, then use these in your hiring.
 
-## Agile change consulting readiness checklist
+## Why use this page?
+
+I provide agile consulting for companies, ranging from small startups to large enterprises, and ranging from one-on-one with a CTO to many-to-many with teams-of-teams.
+
+- What I see in practice: many companies can save quite a lot of time, money, and morale by reading this one page, and using many of the excellent existing books or videos or course. Don't spend expensive resources on agile change consulting until you all know the basics.
+
+- What I see in practice: agile change consulting only works when company leadership is all on board with trying agile change consulting. This means the CXOs and VPs must do their homework ahead of time. Don't embark on agile change until your leaders are all ready.
+
+## Agile consulting readiness checklist
 
 Read the basics which are all free:
 
@@ -24,81 +30,149 @@ Read the basics which are all free:
 
 ## Agile manifesto key points and checklist
 
-Individuals and interactions over processes and tools:
+**Individuals and interactions over processes and tools.**
 
-- [ ] Every product lead summarizes 1-hour discussion with top-10 customer
+- [ ] Every leader is in conversations with customers at least 1 hour per week.
 
-Working software over comprehensive documentation:
+  - Every leader means for every product, project, programme, practice, etc. 
 
-- [ ] Launch "hello world" to production.
+  - Every week, radiate results to the whole group of stakeholders.
 
-Customer collaboration over contract negotiation:
+**Working software over comprehensive documentation.**
 
-- [ ] Buy and read the customer's favorite relevant book, and get reimbursed
+- [ ] Launch "hello world" to production. 
 
-Responding to change over following a plan:
+  - This means create an entirely new program, from scratch, and publish it.
 
-- [ ] All leadership (BoD, CXO, VP, Dir) reads one agile change guide book.
+  - Note what happens at each stage of the work and discuss it with the team.
+
+**Customer collaboration over contract negotiation.**
+
+- [ ] Have the organization buy one copies of the customer's favorite relevant book, and share with the team.
+
+  - This creates collaborative communication and mutual understanding.
+
+  - This simultaneously exercises the organization's ability to spend a small amount of money to help progress. Note that a teammate buying the book personally doesn't count-- this checklist is purposefully exercising the org as a whole.
+
+**Responding to change over following a plan.**
+
+- [ ] Each senior leader (BoD, CXO, VP, Dir) reads one agile change guide book, then shares the top 3 takeaways to the group.
+
+  - This ensures senior leadership buy in, which is must-have for agile to succeed in the organization.
+
+  - If a leader doesn't read a book and share, then figure out why before you hire a consultant.
 
 ## Agile principles key points and checklist
 
-Our highest priority is to satisfy the customer…
+**Our highest priority is to satisfy the customer.**
 
 - [ ] Every product lead measures customer net promoter score (NPS).
 
-Welcome changing requirements, even late in development…
+  - There are many ways to satisfy the customer, and many ways to measure this.
 
-- [ ] Internationalize "hello world" to use the UN languages and browser locale.
+  - Start with NPS because it's quick, easy, widespread, and works well enough.
 
-Deliver working software frequently…
+**Welcome changing requirements, even late in development.**
 
-- [ ] Launch the internationalized feature to production.
+- [ ] Internationalize the "hello world" program from the above checklist item. 
 
-Business people and developers must work together daily throughout the project.
+  - This means upgrade the program to use at least one additional language, and the user's locale environment.
 
-- [ ] Get commitment from all product owners to do this.
+  - This tests how quickly the team can make a simple change that's easy to understand.
 
-Build projects around motivated individuals. Give them the environment and support they need,
-and trust them to get the job done.
+**Deliver working software frequently.**
 
-- [ ] Pick a customer to run a real new project + 3 amigos + 3 squad + 30 day budget.
+- [ ] Launch the internationalization topic, as above, into production. 
 
-The most efficient and effective method of conveying information to and within a 
-team is face-to-face conversation.
+  - Verify the translation is correct by asking the customer or a native speaker of the language.
 
-- [ ] Get commitment from all product owners to have all staff face-to-face >50%.
+  - This tests how quickly the team can launch an upgrade.
 
-Working software is the primary measure of progress.
+**Business people and developers must work together daily throughout the project.**
 
-- [ ] Get lead time to change "fizz buzz" from 100 to 1000 in production.
+- [ ] Get commitment from every lead person for every product, project, programme, practice. 
 
-Agile processes promote sustainable development. The sponsors, developers, and users should be able
-to maintain a constant pace indefinitely.
+  - This ensures full alignment and across-team commitment to shared ways of working.
 
-- [ ] Secure all staff sustaining budget +1 year; if not, why not?
+  - If there are conflicts among the stakeholders, then sort these before hiring help.
 
-Continuous attention to technical excellence and good design enhances agility.
+**Build projects around motivated individuals. Give them the environment and support they need, and trust them to get the job done.**
 
-- [ ] System quality attribute metrics in place in precommit hook and CI
+- [ ] Pick a motivated individual and a customer to create a real new product MVP. 
 
-Simplicity--the art of maximizing the amount of work not done--is essential.
+  - Use the "3 amigos": one business person, one development person, and one testing person.
 
-- [ ] Each product team has 2+ people who know Lean Six Sigma or VSM or equivalent.
+  - Deliver results to production within 30 days and on budget.
 
-The best architectures, requirements, and designs emerge from self-organizing teams.
+**The most efficient and effective method of conveying information to and within a team is face-to-face conversation.**
 
-- [ ] Measure by 5-point Likert "Our team is self-organizing"; must average "Agree".
+- [ ] Get commitment from all product owners to have all staff face-to-face >50% time.
 
-At regular intervals, the team reflects on how to become more effective, then tunes and adjusts
-its behavior accordingly.
+  - If your company has ways of working that are mostly remote, then pick one day a week for each team to video.
 
-- [ ] Product lead shares previous 2 reflections with customers, proves notes, actions, and outcomes.
+  - In my experience, all-in-person tends to be approximately +20% faster and also +20% higher quality.
+
+**Working software is the primary measure of progress.**
+
+- [ ] Create and ship a new program "fizz buzz" into production. 
+
+  - This program is a simple one that prints some numbers and text.
+
+  - There are plenty of free open source versions ready to use.
+
+**Agile processes promote sustainable development. The sponsors, developers, and users should be able to maintain a constant pace indefinitely.**
+
+- [ ] Secure all staff sustaining budget +1 year; if not, why not? 
+
+  - This checklist item detects the organization's capability for sustainable development.
+
+  - This is because lack of sustainability is a frequent trouble spot for agile change.
+
+**Continuous attention to technical excellence and good design enhances agility.**
+
+- [ ] System quality attribute metrics in place in precommit hook and continuous integration services.
+
+**Simplicity--the art of maximizing the amount of work not done--is essential.**
+
+- [ ] Each product team has 2+ people who have process improvement skills.
+
+  - Such as knowing one or more of Lean, Six Sigma, value stream mapping, total project control, TPS, or equivalent.
+
+  - These tactics aren't agile per se; instead, they correlate highly with large organization agile readiness.  
+
+**The best architectures, requirements, and designs emerge from self-organizing teams.**
+
+- [ ] Measure by 5-point Likert scale "Our team is self-organizing". The results must average to "Agree" or better. 
+
+  - If the results are lower, then work on self-organization practices before you spend money on agile consulting.
+
+  - There are many ways to improve here; one that I recommend is The Vanguard Method.
+
+**At regular intervals, the team reflects on how to become more effective, then tunes and adjusts its behavior accordingly.**
+
+- [ ] Each leader shares previous 2 reflections with all stakeholders.
+
+  - A reflection is sometimes called a retrospective, or post-work report, etc.
+
+  - In practice, many leaders skip reflection, which causes agile to fail.
 
 ## Score yourself
 
-If you and your leaders and your teams weren't able to get through the checklist, then I suggest you're going to get more from your time and money by having your staff do basic homework first.
+Add up your points above:
+
+- 0-4 = Low. Don't do it because you're not ready enough. Instead, focus on internal operations, such as your choice of business process optimization, or value stream mapping, or lean development, or similar.
+
+- 6-10 = Medium. Do your agile homework first, using the ideas below. Try some of the ideas and practices at your organization for at least 3 months, then retake this agile consulting readiness checklist to see your improvements.
+
+- 11-16 = High. You're likely ready enough, so try it and see how it goes for 3 months or so.
+
+## Do your homework
+
+Broadly you'll get more for your time and money by having your staff do basic homework first.
 
 - Homework can be as simple as each person reading one book about agile and one book about sector-specific change. Or watch one video about each, or take one online course about each, or any equivalent.
+
+- I estimate that each 1 hour a teammate spends on homework before the engagement saves 1.5 person-hours during the engagement. Homework really pays off to do ahead of time.
 
 Agile books:
 
