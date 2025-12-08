@@ -101,7 +101,7 @@ This page has agile consulting first showcase checklist that helps you decide if
 - [ ] Does every showcase deal with simplicity?
 
   - Example: any discussion of strategy and/or tactics and/or work must emphasize the choices to say no to suboptimal work, and also to constrain work in progress to one unit at a time.
-  - 
+
 **The best architectures, requirements, and designs emerge from self-organizing teams.**
 
 - [ ] Does every showcase deal with emerging from self-organizing teams?
