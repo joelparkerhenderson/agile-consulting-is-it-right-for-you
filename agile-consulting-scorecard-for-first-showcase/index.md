@@ -10,7 +10,7 @@ This page has agile consulting first showcase checklist that helps you decide if
 
 **Individuals and interactions over processes and tools.**
 
-- [ ] Is the focus 75%+ on individuals and interactions?
+- [ ] Is the showcase more on individuals and interactions and less on processes and tools?
 
   - Positive examples: external customers and their interactions. Great: their names and direct quotations about the immediate work. Good: their OKRs, KPIs, goals, metrics.
 
@@ -18,7 +18,7 @@ This page has agile consulting first showcase checklist that helps you decide if
 
 **Working software over comprehensive documentation.**
 
-- [ ] Is the focus 75%+ on working software?
+- [ ] Is the showcase more on working software and less on comprehensive documentation?
 
   - Positive examples: actual running software, even as a prototype or pilot or proof of value, even if it's small. Great: the software aims to be a thin slice. Good: the software aims to be a PoC.
 
@@ -26,7 +26,7 @@ This page has agile consulting first showcase checklist that helps you decide if
 
 **Customer collaboration over contract negotiation.**
 
-- [ ] Is the focus 75%+ on customer collaboration?
+- [ ] Is the showcase more on customer collaboration and less on contract negotiation?
 
   - Positive examples: Proof of customer collaboration. Great: at least one customer is in the showcase in person. Good: at least one customer is in the showcase via video.
 
@@ -34,7 +34,7 @@ This page has agile consulting first showcase checklist that helps you decide if
 
 **Responding to change over following a plan.**
 
-- [ ] Is the focus 75%+ on customer collaboration?
+- [ ] Is the showcase more on responding to change and less on following a plan?
 
   - Positive examples: Deliberately ask for three small things during the week's engagement, anything you like, and notice what happens in the showcase. For example I like to ask "Can you share previous work you've done so we can better-understand options?" and "What are some of the customer interaction approaches you favor?" and "Can you add the customer OKRs to the top of the first page?" Great: the agile consultant adapts in real time, and changes the work in real time during the showcase in front of the participants. Good: the agile consultant fields the question, and does it within 24 hours, and updates the stakeholders.
 
@@ -44,27 +44,27 @@ This page has agile consulting first showcase checklist that helps you decide if
 
 **Our highest priority is to satisfy the customer.**
 
-- [ ] Does the consultant lead with a customer satisfaction metric?
+- [ ] Does the showcase lead with a customer satisfaction metric?
 
   - Example: Net Promoter Score (NPS).
 
 **Welcome changing requirements, even late in development.**
 
-- [ ] Does the consultant welcome changing requirements?
+- [ ] Does the showcase welcome changing requirements?
 
-  - Example: how well did they handle the change requests from above?
+  - Example: try asking for a relatively small relatively easy to understand change; how well did they handle the change request?
 
 **Deliver working software frequently.**
 
-- [ ] Does the consultant show working software?
+- [ ] Does the showcase show working software?
 
   - Example: any kind of simple value proof, such as a production feature improvement, or even a prototype, pilot, or proof of value.
 
 **Business people and developers must work together daily throughout the project.**
 
-- [ ] Does the showcase include the business people at issue and the developers at issue?
+- [ ] Does the showcase include business people and developers at the showcase?
 
-  - Example: this means the actual work team, not the agile consulting people (though they should be working together too), the executive sponsors, guidance team, engagement team, etc.
+  - Example: this means the actual work team of business people and developers, and does not mean the agile consulting people, nor the executive sponsors, nor any engagement team, etc. (all of whom should be welcome at showcases, yet aren't the ones actually doing the customer-driven day-to-day work).
 
 **Build projects around motivated individuals. Give them the environment and support they need, and trust them to get the job done.**
 
@@ -74,13 +74,13 @@ This page has agile consulting first showcase checklist that helps you decide if
 
 **The most efficient and effective method of conveying information to and within a team is face-to-face conversation.**
 
-- [ ] Does the showcase do face to face, including with actual customers and actual work team?
+- [ ] Does the showcase do face to face with actual customers?
 
-  - Example: the customer is in the room, and so are the actual work team people-- at least one business person and at least one technical person. For people who can't attend in person due to travel, or restrictions, or similar reasons, then do video.
+  - Example: the customer is in the room, and so are the actual work team people-- at least one business person and at least one developer.
 
 **Working software is the primary measure of progress.**
 
-- [ ] Does the showcase show working software?
+- [ ] Does the showcase demonstrate working software?
 
   - Example: a new feature, or even a pilot, or prototype, or proof of value. Even if the working software is simply a new web page, or new clickable UI, or new editable spreadhseet, that's an OK start for a first showcase.
 
@@ -92,25 +92,25 @@ This page has agile consulting first showcase checklist that helps you decide if
 
 **Continuous attention to technical excellence and good design enhances agility.**
 
-- [ ] Does every showcase deal with technical excellence and good design?
+- [ ] Does the showcase deal with technical excellence and good design?
 
   - Example: touching on the customer value impact of technical excellence that improves agility and ability to change for the better, and good design that improves usability and ability for customers to generate value.
 
 **Simplicity--the art of maximizing the amount of work not done--is essential.**
 
-- [ ] Does every showcase deal with simplicity?
+- [ ] Does the showcase deal with simplicity?
 
   - Example: any discussion of strategy and/or tactics and/or work must emphasize the choices to say no to suboptimal work, and also to constrain work in progress to one unit at a time.
 
 **The best architectures, requirements, and designs emerge from self-organizing teams.**
 
-- [ ] Does every showcase deal with emerging from self-organizing teams?
+- [ ] Does the showcase deal with emerging from self-organizing teams?
 
   - Example: any discussion of choices of architectures, requirements, and designs hones in on each team being able to make their own choices, including ways of working that are emergent. Good approaches can include active discussions about tradeoffs, good-enough versus perfection, buy versus build, and the like.
   
 **At regular intervals, the team reflects on how to become more effective, then tunes and adjusts its behavior accordingly.**
 
-- [ ] Does every showcase deal with reflection?
+- [ ] Does the showcase deal with reflection?
 
   - Example: The reflection should be primarily about customer value, secondarily about internal work to improve the team. Ideally the showcase leaders highlight the agile engagement's reflection, such as a retrospective of the previous week.
 
